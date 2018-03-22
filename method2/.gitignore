@@ -1,0 +1,10 @@
+__pycache__/
+uNet/classify
+uNet/dust
+uNet/HKH740132H
+uNet/HMH730006H
+uNet/ICH760014H
+uNet/model
+uNet/predict
+uNet/debug.model
+uNet/plot.csv

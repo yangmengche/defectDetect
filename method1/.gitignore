@@ -1,0 +1,13 @@
+__pycache__/
+cnn/images
+/cnn/test1
+/cnn/test2
+/cnn/testingData/
+/cnn/testSet
+/label/HKH740132H
+/label/HMH730006H
+/label/ICH760014H
+/preProcess/image
+/preProcess/output
+/preProcess/training1
+/preProcess/training2
